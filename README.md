@@ -14,9 +14,10 @@
 
 
 ## 🛠️ Languages and Tools
-<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
-<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java Badge" />
-
+<p>
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java Badge" />
+</p>
 <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c" alt="C Badge" />
 <img src="https://img.shields.io/badge/-Assembly-525252?style=flat&color=black" alt="Assembly Badge" />
 <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue" alt="Python Badge" />
