@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm José Borges
 
 ## 📖 About me
-- 📝 My resumee is [here](https://www.canva.com/design/DAGTS613Gho/FYih971Ts2vNDejX2soh1w/view?utm_content=DAGTS613Gho&utm_campaign=designshare&utm_medium=link&utm_source=editor) ([Portuguese](https://www.canva.com/design/DAGSW5Uvc_0/7zdRs7mU0Z2JA6LsA5DZxA/view?utm_content=DAGSW5Uvc_0&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+- 📝 My resumee is [here]([https://www.canva.com/design/DAGTS613Gho/FYih971Ts2vNDejX2soh1w/view?utm_content=DAGTS613Gho&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAHBsDpvnDs/smQAEI4lwpOct2dqA4O5dw/view?utm_content=DAHBsDpvnDs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h32ac56ed05))
 - 🏫 I'm graduated in Software and Computer Engineering @ [ISEL](https://www.isel.pt/enISEL), in Portugal.
 - I started programming in 2020.
 - Interests:
