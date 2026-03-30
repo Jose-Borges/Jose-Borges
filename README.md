@@ -57,7 +57,7 @@
 
 <p>
 
-> _Note: I am still learning some of these and my proficiency varies!_
+> _Note: I am still learning some of these and my proficiency varies._
 
 ## 🔥 My GitHub Data
 <div align=center>
@@ -68,4 +68,4 @@
 
 </div>
 
-> _Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.!_
+> _Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
