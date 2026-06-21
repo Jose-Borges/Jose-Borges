@@ -2,7 +2,7 @@
 
 ## 📖 About me
 - 📝 My resumee is [here](https://www.canva.com/design/DAHBsDpvnDs/smQAEI4lwpOct2dqA4O5dw/view?utm_content=DAHBsDpvnDs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h32ac56ed05)
-- 🏫 I'm graduated in Software and Computer Engineering @ [ISEL](https://www.isel.pt/enISEL), in Portugal.
+- 🏫 I'm graduated in Software and Computer Engineering @ [ISEL](https://www.isel.pt), in Portugal.
 - I started programming in 2020.
 - Interests:
 -   - ⚽ Playing sports with friends.
